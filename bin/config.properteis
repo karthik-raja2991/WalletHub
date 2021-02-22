@@ -1,0 +1,11 @@
+#Get the relative path for Drivers
+
+chrome_path=/Driver/ChromeDriver/chromedriver.exe
+firefox_path=/Driver/FireFoxDriver/geckodriver.exe
+# for chrome give browsertoTest as ChromeBrowser and for FIrefox, give name as FFBrowser
+browsertoTest=ChromeBrowser
+
+# facebook credentials
+username=karthik2991@gmail.com
+password=2991@Raja
+
